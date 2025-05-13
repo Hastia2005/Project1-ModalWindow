@@ -17,7 +17,7 @@ script.js       Modal functionality logic
 
 How to Use?
 1-Clone this repository:
-git clone https://github.com/Hastia2005/modal-window.git  
+git clone https://github.com/hastiaahmadi/modal-window.git  
 Open the 'index.html' file in your browser.
 Click the "Show modal" buttons to display the modal.
 
